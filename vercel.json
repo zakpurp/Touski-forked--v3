@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/generateRecipe.js": {
+      "maxDuration": 60
+    }
+  }
+}
